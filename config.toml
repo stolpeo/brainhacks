@@ -1,0 +1,17 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Learning Techniques"
+theme = "hugo-theme-learn"
+publishDir = "docs"
+
+[params]
+  editURL = "https://github.com/stolpeo/learning-techniques/edit/master/content/"
+  description = "Work for the Learning How to Learn course assignment"
+  author = "Oliver Stolpe"
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+

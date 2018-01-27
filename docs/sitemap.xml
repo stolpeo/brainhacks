@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/brain/</loc>
+  </url>
+  
+  <url>
+    <loc>/brain/mind/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/time/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>/brain/memory/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/pomodoro/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/willpower/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/chunking/</loc>
+  </url>
+  
+  <url>
+    <loc>/brain/habits/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/motivation/</loc>
+  </url>
+  
+  <url>
+    <loc>/resources/sleep/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/spaced_repetition/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/interleaving/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/memory_palace/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/operate_on_habits/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/dreaming/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/process-orienting/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/recall/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
