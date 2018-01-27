@@ -5,6 +5,7 @@ defaultContentLanguage = "en"
 title = "Learning Techniques"
 theme = "hugo-theme-learn"
 publishDir = "docs"
+relativeUrls = true
 
 [params]
   editURL = "https://github.com/stolpeo/learning-techniques/edit/master/content/"
