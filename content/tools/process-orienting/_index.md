@@ -4,8 +4,6 @@ weight: 90
 disableToc: true
 ---
 
-#### Description
-
 Accomplishing a task can be done in two ways:
 
 - **process-oriented** or

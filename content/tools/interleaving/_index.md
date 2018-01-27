@@ -4,8 +4,6 @@ weight: 50
 disableToc: true
 ---
 
-#### Description
-
 Interleaving is a meta learning method where you vary between different
 learning techniques. Using different methods can help you deepen the
 task you are working on.

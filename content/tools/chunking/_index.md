@@ -4,8 +4,6 @@ weight: 30
 disableToc: true
 ---
 
-#### Description
-
 [Chunks]({{< relref "brain/memory" >}}) are compact packages of information
 that are easy accessible for the mind. They are part of the **bigger picture**
 that you want to form, but easier to grasp for the [focused mind]({{< relref

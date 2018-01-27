@@ -4,8 +4,6 @@ weight: 100
 disableToc: true
 ---
 
-#### Description
-
 Recalling is a method where you test yourself about the things you just
 learned. It should prevent you from the illusion of competence, a pitfall where
 you think you are an expert in a field by having read books about that field

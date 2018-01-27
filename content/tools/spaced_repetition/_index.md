@@ -4,8 +4,6 @@ weight: 40
 disableToc: true
 ---
 
-#### Description
-
 Spaced repetition helps you to store things in your [long term memory]({{<
 relref "brain/memory" >}}). It is more efficient to repeat things for a
 shorter time every or every few days rather than practice one time for a longer

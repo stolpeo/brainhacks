@@ -4,8 +4,6 @@ weight: 70
 disableToc: true
 ---
 
-#### Description
-
 Research shows that habits can be changed, deleted or new ones can be
 implemented. It uses [willpower]({{< relref "resources/willpower" >}}),
 but if done right, you need it only at one specific timepoint. This

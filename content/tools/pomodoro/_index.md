@@ -4,8 +4,6 @@ weight: 20
 disableToc: true
 ---
 
-#### Description
-
 The [Pomodoro technique](http://en.wikipedia.org/Pomodoro_Technique), named after
 a kitchen timer, is a technique that helps you focus and battle procrastination.
 
