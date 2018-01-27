@@ -13,7 +13,6 @@ canonifyUrls = true
   description = "Work for the Learning How to Learn course assignment"
   author = "Oliver Stolpe"
   showVisitedLinks = true
-  themeVariant = "green"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
