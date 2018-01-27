@@ -32,7 +32,8 @@ Things in this category are your fuel. Without them, your efforts won't work.
 This part comprises all the techniques to effectively alter your habits, leading hopefully
 to better learning results and in the end, a more pleasant life.
 
-Improvements are welcome.  You can either do so by [creating an issue]() or
-[making a pull request]().
+Improvements are welcome.  You can either do so by
+[creating an issue](https://github.com/stolpeo/learning-techniques/issues)
+or [forking the repository](https://github.com/stolpeo/learning-techniques/).
 
 Cheers, Oliver
