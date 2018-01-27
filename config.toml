@@ -6,6 +6,7 @@ title = "Learning Techniques"
 theme = "hugo-theme-learn"
 publishDir = "docs"
 relativeUrls = true
+canonifyUrls = true
 
 [params]
   editURL = "https://github.com/stolpeo/learning-techniques/edit/master/content/"
