@@ -40,5 +40,5 @@ Cheers, Oliver
 
 ##### References
 
-[https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
-[https://github.com/matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)
+* [https://commons.wikimedia.org/wiki/File:Red\_Silhouette\_-\_Brain.svg](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
+* [https://github.com/matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)
