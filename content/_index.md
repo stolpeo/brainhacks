@@ -38,4 +38,4 @@ or [forking the repository](https://github.com/stolpeo/learning-techniques/).
 
 Cheers, Oliver
 
-[Brain image](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
+[https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
