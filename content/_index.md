@@ -38,4 +38,7 @@ or [forking the repository](https://github.com/stolpeo/learning-techniques/).
 
 Cheers, Oliver
 
+##### References
+
 [https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
+[https://github.com/matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)
