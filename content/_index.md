@@ -42,3 +42,4 @@ Cheers, Oliver
 
 * [https://commons.wikimedia.org/wiki/File:Red\_Silhouette\_-\_Brain.svg](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
 * [https://github.com/matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn)
+* [https://www.1001freefonts.com/the-west-gate.font](https://www.1001freefonts.com/the-west-gate.font)
