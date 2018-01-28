@@ -37,3 +37,5 @@ Improvements are welcome.  You can either do so by
 or [forking the repository](https://github.com/stolpeo/learning-techniques/).
 
 Cheers, Oliver
+
+[Brain image](https://commons.wikimedia.org/wiki/File:Red_Silhouette_-_Brain.svg)
