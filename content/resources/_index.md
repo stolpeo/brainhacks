@@ -7,3 +7,4 @@ chapter: true
 
 # The Resources
 
+{{% children %}}

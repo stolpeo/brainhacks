@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/focusing/</loc>
+  </url>
+  
+  <url>
     <loc>https://stolpeo.github.com/learning-techniques/resources/</loc>
   </url>
   
@@ -27,15 +31,11 @@
   </url>
   
   <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/pomodoro/</loc>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/</loc>
   </url>
   
   <url>
     <loc>https://stolpeo.github.com/learning-techniques/resources/willpower/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/chunking/</loc>
   </url>
   
   <url>
@@ -47,19 +47,11 @@
   </url>
   
   <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/memorization/</loc>
+  </url>
+  
+  <url>
     <loc>https://stolpeo.github.com/learning-techniques/resources/sleep/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/spaced_repetition/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/interleaving/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/memory_palace/</loc>
   </url>
   
   <url>
@@ -67,19 +59,7 @@
   </url>
   
   <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/dreaming/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/process-orienting/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/recall/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stolpeo.github.com/learning-techniques/tools/deliberate_practice/</loc>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/interleaving/</loc>
   </url>
   
   <url>
@@ -88,7 +68,39 @@
   </url>
   
   <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/chunking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/deliberate_practice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/dreaming/</loc>
+  </url>
+  
+  <url>
     <loc>https://stolpeo.github.com/learning-techniques/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/memorization/memory_palace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/focusing/pomodoro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/focusing/process-orienting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/recall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stolpeo.github.com/learning-techniques/tools/new_skill/spaced_repetition/</loc>
   </url>
   
   <url>
