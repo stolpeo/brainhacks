@@ -14,7 +14,7 @@ cd learning-techniques/content
 # adjust to your liking
 ```
 
-## Preview Changes
+### Preview Changes
 
 To preview the changes, you have to install [hugo](https://gohugo.io/getting-started/).
 To activate the local view, go in to `learning-techniques/config.toml` and change the following line as follows:
